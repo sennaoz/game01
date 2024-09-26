@@ -1,3 +1,4 @@
+//Düşmanın Oyuncuyu Takip Etmesi
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
