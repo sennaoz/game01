@@ -1,3 +1,4 @@
+//Puan Toplama ve Oyun Sonlandırma Mekaniği
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
