@@ -33,6 +33,9 @@ public class PlayerMovement : MonoBehaviour
             spriteRenderer.flipX = true;
         }
 
+
+
+
         // Zıplama kontrolü, oyuncu yer ile temas halindeyken zıplar
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
